@@ -15,3 +15,8 @@ T TestTemp<T>::getValue()
 {
     return _obj;
 }
+
+// void dummyFunc()
+// {
+//     TestTemp<int> item;
+// }
