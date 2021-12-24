@@ -10,3 +10,4 @@ BraceWrapping:
 AllowShortFunctionsOnASingleLine: None
 IndentCaseLabels: true
 AccessModifierOffset: -4
+AlwaysBreakTemplateDeclarations: Yes
